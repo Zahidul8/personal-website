@@ -26,7 +26,7 @@
     }
 
     .bg-image {
-        background-image: url('/shapes/Group330941.png');
+        background-image: url('../shapes/Group330941.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
