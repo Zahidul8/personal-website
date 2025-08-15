@@ -25,12 +25,5 @@
         font-size: clamp(1.75rem, 6vw, 64px);
     }
 
-    .bg-image {
-        background-image: url('./shapes/Group330941.png');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-    }
-
-
+    
 }
